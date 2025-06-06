@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jad+Atout!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Palestine 🇵🇸</h3>
+<h3 align="center">A passionate software Engineer from Palestine 🇵🇸</h3>
 
 ---
 
@@ -13,7 +13,7 @@
 <div align="center">
 
 🔭 I’m currently working on **some awesome projects**  
-🌱 I’m currently learning **Advanced Backend, Cloud Computing**  
+🌱 I’m  learning **Advanced Backend, IoT**  
 💬 Ask me about **Node.js, React, MongoDB... or anything [here](https://github.com/Jad-Atout/Jad-Atout/issues)**  
 ⚡ Fun fact: **Bees can recognize human faces**
 
