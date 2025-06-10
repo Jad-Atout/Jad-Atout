@@ -40,7 +40,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sequelize,python,java,linux,git,jetbrains,googlecloud,jupyter" />
   <br/>
   <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="assets/langgraph.png" alt="LangGraph logo" height="40"/>
+    <img src="langgraph.png" alt="LangGraph logo" height="40"/>
   </a>
 </div>
 
