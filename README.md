@@ -39,9 +39,9 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sequelize,python,java,linux,git,jetbrains,googlecloud,jupyter" />
   <br/>
-  <a href="https://www.langchain.com/langgraph" target="_blank">
-    <img src="langgraph.png" alt="LangGraph logo" height="40"/>
-  </a>
+  <div align="center" style=": padding: 20px; border-radius: 8px;">
+  <img src="langgraph.png" alt="LangGraph logo" style="height:120px; max-width:100%;" />
+</div>
 </div>
 
 
